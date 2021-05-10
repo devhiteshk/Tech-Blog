@@ -1,6 +1,7 @@
 module.exports = {
     title: '🚀Derive-Science',
     description: 'Rock the World',
+    base: "/Tech-Blog/",
     head: [
       ['link', { rel: 'stylesheet', href: "<link rel='preconnect' href='https://fonts.googleapis.com/css2?family=Gugi&display=swap'>" }],
     ],
