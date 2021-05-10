@@ -12,7 +12,8 @@ module.exports = {
         nav: [
           { text: 'Home', link: '/' },
           { text: 'Tech-Blog', link: '/Tech-Blog/' },
-          { text: '✔', link: 'https://Derive-science.com' }
+//           { text: 'Contribute', link: '/Contribute/' },
+          { text: '🚀', link: 'https://Derive-science.com' }
         ],
         sidebar: [
             '/',
