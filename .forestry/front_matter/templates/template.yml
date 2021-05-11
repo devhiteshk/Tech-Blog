@@ -1,6 +1,7 @@
 ---
 label: Template
 hide_body: false
+display_field: enter_markdown
 fields:
 - name: enter_markdown
   type: textarea
