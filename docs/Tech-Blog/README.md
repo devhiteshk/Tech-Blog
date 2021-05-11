@@ -84,7 +84,7 @@ These elements extend the basic syntax by adding additional features. Not all Ma
 | Paragraph | Text |
 ```
 ### Fenced Code Block
-```
+
 ```
 {
   "firstName": "John",
@@ -92,7 +92,7 @@ These elements extend the basic syntax by adding additional features. Not all Ma
   "age": 25
 }
 ```
-```
+
 ### Footnote
 ```
 Here's a sentence with a footnote. [^1]
