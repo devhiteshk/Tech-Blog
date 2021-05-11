@@ -4,7 +4,7 @@ heroImage: /startup.svg
 heroText: Today's Heroics
 tagline: Real learner never stops!
 actionText: Let's Begin →
-actionLink: /Tech-Blog/
+actionLink: /Contribute/
 # features:
 # - title: Objective
 #   details: Today's Heroic Learner is a place where we expose our learnings in various technologies and the solutions to the proplems we faced. Simple and awesome, made with ❤.
