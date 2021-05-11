@@ -1,4 +1,14 @@
 ---
 label: Template
 hide_body: false
-fields: []
+fields:
+- name: enter_markdown
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Enter markdown
+  description: Please read about markdown and then contribute.
