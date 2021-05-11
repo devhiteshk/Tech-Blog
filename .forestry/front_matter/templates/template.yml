@@ -13,3 +13,5 @@ fields:
       format: markdown
   label: Enter markdown
   description: Please read about markdown and then contribute.
+pages:
+- docs/Tech-Blog/README.md
