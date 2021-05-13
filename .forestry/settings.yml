@@ -7,7 +7,6 @@ sections:
 - type: document
   path: docs/.vuepress/config.js
   label: config.js
-  match: "**/*"
 - type: directory
   path: docs
   label: docs
