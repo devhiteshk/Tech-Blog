@@ -4,6 +4,10 @@ auto_deploy: false
 admin_path: forestry-dev
 webhook_url: 
 sections:
+- type: document
+  path: docs/.vuepress/config.js
+  label: config.js
+  match: "**/*"
 - type: directory
   path: docs
   label: docs
