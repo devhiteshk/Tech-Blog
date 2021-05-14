@@ -1,7 +1,7 @@
 var SList = require("./SList");
 
 module.exports = {
-    title: '🚀Derive-Science',
+    title: 'Derive-Science',
     description: 'Rock the World',
     base: "/Tech-Blog/",
     head: [
