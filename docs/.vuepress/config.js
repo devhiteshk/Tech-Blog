@@ -6,7 +6,7 @@ module.exports = {
     base: "/Tech-Blog/",
     head: [
       ['link', { rel: 'stylesheet', href: "<link rel='preconnect' href='https://fonts.googleapis.com/css2?family=Gugi&display=swap'>" }],
-            ['link', { rel: "derive-science-icon", sizes: "180x180", href: "/startup.svg"}],
+           ['link', { rel: 'icon', href: '/startup.svg' }],
     ], themeConfig: {
         nav: [
           { text: 'Home', link: '/' },
