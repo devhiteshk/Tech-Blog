@@ -2,3 +2,5 @@
 label: blog
 hide_body: false
 fields: []
+pages:
+- docs/Data-Structures/SinglyLinkedList.md
