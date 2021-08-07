@@ -12,7 +12,8 @@ exports.PyList = [
 ]
 
 exports.DSList = [
-    'Data-Structures/'
+    'Data-Structures/',
+    'Data-Structures/SinglyLinkedList.md'
 ]
 
 exports.AlgoList = [
