@@ -11,7 +11,7 @@ module.exports = {
         nav: [
           { text: 'Home', link: '/' },
           { text: 'Contribute', link: '/Contribute/' },
-          { text: '🚀', link: 'https://Derive-science.com' }
+          { text: '🚀', link: 'https://devhiteshk.github.io' }
         ],
         sidebar:[ "/",
           {
